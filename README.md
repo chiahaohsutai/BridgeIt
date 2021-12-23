@@ -14,8 +14,7 @@ The design of the game concentrates on the use of mutation, ArrayLists and Java'
 
 The game consists of a two-dimensional grid of cells, with each cell being assigned one of three colors. The first player’s goal is to create an uninterruped path of yellow/orange cells from the top to the bottom edge of the grid. The second player’s goal is to do the same, but from the right to left bottom edge using blue cells. The game is played on an n by n grid, where n is an odd number greater than or equal to 3. The initial board should has blue cells in the leftmost and rightmost columns, but only in every other row, starting at the second rows. The initial board should also have orange/yellow cells in the topmost and bottommost rows, but only in every other column, starting at the second column. All of the other cells should be white. Each player then alternates clicking white cells, changing the cell to the player’s color. Once a white cell has been changed, it can never be changed again. White cells along the edges of the board cannot be changed. (Orange/yellow always starts)
 
-How to play:
-To play please do the following:
+### How to play:
 
 To play please do the following:
 - Download all the files in the repository
