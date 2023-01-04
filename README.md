@@ -4,7 +4,7 @@
 
 The game consists of a two-dimensional grid of cells, with each cell being assigned one of three colors. The players’ goal is to create an uninterrupted path of yellow/orange cells from one side of the grid to the opposite side of the grid. The game is played on an n-by-n grid, where n is an odd number greater than or equal to 3. The initial board should have blue cells in the leftmost and rightmost columns, but only in every other row, starting at the second row. The initial board should also have yellow cells in the topmost and bottommost rows, but only in every other column, starting at the second column. All the other cells should be white. Each player then alternates clicking white cells, changing the cell to the player’s color. Once a white cell has been changed, it can never be changed again. White cells along the edges of the board cannot be changed. (Yellow always starts). If the set-up of the board is not clear, you can find a picture of the game at the end of the readme file. In the image, the players have already clicked some of the white cells. The original board should look like a chess board but with 3 colors. 
 
-### How to play:
+### Run the project:
 
 To play please do the following:
 - Download all the files in the repository
