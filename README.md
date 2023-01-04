@@ -22,4 +22,3 @@ To play please do the following:
 Image of the game:
 
 ![Screen Shot 2021-12-23 at 3 13 34 PM](https://user-images.githubusercontent.com/89400862/147290770-2ad8105b-1061-44ec-a2ff-f5785549ccf6.png)
-![image](https://user-images.githubusercontent.com/89400862/210663962-13e84788-145c-4510-a100-d7ef4683aedf.png)
