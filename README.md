@@ -9,7 +9,7 @@ The game consists of a two-dimensional grid of cells, with each cell being assig
 To play please do the following:
 - Download all the files in the repository
 - Add the .java files to your project folder
-- Add the .jar files as extrenal libraries to the project's classpath
+- Add the .jar files as external libraries to the project's classpath
 - In your run configurations:
   - Under main, for your main class write: tester.Main
   - Under arguments, for your program arguments write: RunBridgeIt
